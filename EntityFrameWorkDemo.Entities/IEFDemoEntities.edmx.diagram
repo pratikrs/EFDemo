@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4f31fe3fcbf746a7a58daac3126da6f5" Name="Diagram1">
+        <EntityTypeShape EntityType="IEFDemoEntities.AdminUser" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IEFDemoEntities.Cart" Width="1.5" PointX="5.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IEFDemoEntities.Cours" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IEFDemoEntities.CustomerOrder" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IEFDemoEntities.Customer" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="IEFDemoEntities.DiscountCode" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IEFDemoEntities.Event" Width="1.5" PointX="7.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IEFDemoEntities.OrderLine" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IEFDemoEntities.Professor" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <AssociationConnector Association="IEFDemoEntities.FK_Cart_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="IEFDemoEntities.FK_Order_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="IEFDemoEntities.FK_Order_Cust" ManuallyRouted="false" />
+        <AssociationConnector Association="IEFDemoEntities.FK_Order_DiscountCode" ManuallyRouted="false" />
+        <AssociationConnector Association="IEFDemoEntities.FK_OrderLine_Order" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

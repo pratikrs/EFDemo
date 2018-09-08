@@ -1,0 +1,14 @@
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\obj\Debug\EntityFrameWorkDemo.Services.csprojResolveAssemblyReference.cache
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFrameWorkDemo.Services.dll.config
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFrameWorkDemo.Services.dll
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFrameWorkDemo.Services.pdb
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFramework.dll
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFrameWorkDemo.Common.dll
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFrameWorkDemo.Entities.dll
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFrameWorkDemo.Common.pdb
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFrameWorkDemo.Entities.pdb
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFramework.xml
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\obj\Debug\EntityFrameWorkDemo.Services.dll
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Services\obj\Debug\EntityFrameWorkDemo.Services.pdb

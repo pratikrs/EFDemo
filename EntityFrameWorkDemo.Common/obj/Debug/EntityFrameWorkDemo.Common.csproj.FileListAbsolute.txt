@@ -1,0 +1,5 @@
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Common\bin\Debug\EntityFrameWorkDemo.Common.dll
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Common\bin\Debug\EntityFrameWorkDemo.Common.pdb
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Common\obj\Debug\EntityFrameWorkDemo.Common.csprojResolveAssemblyReference.cache
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Common\obj\Debug\EntityFrameWorkDemo.Common.dll
+E:\Work\DemoProjects\EntityFrameWorkDemo\EntityFrameWorkDemo.Web\EntityFrameWorkDemo.Common\obj\Debug\EntityFrameWorkDemo.Common.pdb
